@@ -1,0 +1,6 @@
+idProducto,nombre,precio,categoria,disponible
+1,Taco de Harina,15.00,Tacos,True
+2,Taco de Maiz,12.00,Tacos,True
+3,Horchata Grande,35.00,Bebidas,True
+4,Horchata Chica,20.00,Bebidas,True
+5,Salsa Verde,5.00,Complementos,True
